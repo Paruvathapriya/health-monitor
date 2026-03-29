@@ -1,802 +1,802 @@
 [
     {
-        "patient_id": "P2",
-        "heart_rate": 68,
-        "oxygen_level": 97,
-        "temperature": 36.7,
-        "blood_pressure": "130/75",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 72,
-        "oxygen_level": 97,
-        "temperature": 37.0,
-        "blood_pressure": "125/81",
-        "status": "NORMAL"
-    },
-    {
         "patient_id": "P1",
-        "heart_rate": 84,
-        "oxygen_level": 97,
-        "temperature": 37.4,
-        "blood_pressure": "114/74",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 94,
-        "oxygen_level": 94,
-        "temperature": 37.3,
-        "blood_pressure": "126/73",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 82,
-        "oxygen_level": 99,
-        "temperature": 37.3,
-        "blood_pressure": "112/70",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 46,
-        "oxygen_level": 91,
-        "temperature": 38.3,
-        "blood_pressure": "148/91",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 80,
-        "oxygen_level": 97,
+        "heart_rate": 83,
+        "oxygen_level": 96,
         "temperature": 37.5,
-        "blood_pressure": "120/80",
+        "blood_pressure": "115/77",
         "status": "NORMAL"
     },
     {
-        "patient_id": "P3",
-        "heart_rate": 77,
-        "oxygen_level": 94,
-        "temperature": 37.4,
-        "blood_pressure": "113/80",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 115,
-        "oxygen_level": 81,
-        "temperature": 38.4,
-        "blood_pressure": "163/110",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 80,
-        "oxygen_level": 100,
-        "temperature": 36.5,
-        "blood_pressure": "128/74",
+        "patient_id": "P2",
+        "heart_rate": 91,
+        "oxygen_level": 98,
+        "temperature": 37.2,
+        "blood_pressure": "113/81",
         "status": "NORMAL"
     },
     {
         "patient_id": "P3",
         "heart_rate": 48,
-        "oxygen_level": 85,
-        "temperature": 39.7,
-        "blood_pressure": "141/110",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 68,
-        "oxygen_level": 100,
-        "temperature": 37.0,
-        "blood_pressure": "118/72",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 45,
-        "oxygen_level": 83,
-        "temperature": 39.7,
-        "blood_pressure": "143/105",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 74,
-        "oxygen_level": 100,
-        "temperature": 37.4,
-        "blood_pressure": "118/77",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 75,
-        "oxygen_level": 99,
-        "temperature": 37.4,
-        "blood_pressure": "129/85",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 112,
-        "oxygen_level": 82,
-        "temperature": 39.6,
-        "blood_pressure": "161/91",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 68,
-        "oxygen_level": 95,
-        "temperature": 36.6,
-        "blood_pressure": "124/80",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 72,
-        "oxygen_level": 96,
-        "temperature": 37.3,
-        "blood_pressure": "115/81",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 84,
-        "oxygen_level": 97,
-        "temperature": 37.3,
-        "blood_pressure": "126/70",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 45,
-        "oxygen_level": 86,
-        "temperature": 39.7,
-        "blood_pressure": "143/107",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 123,
-        "oxygen_level": 82,
-        "temperature": 39.8,
-        "blood_pressure": "140/96",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 124,
-        "oxygen_level": 83,
-        "temperature": 38.6,
-        "blood_pressure": "168/94",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 118,
-        "oxygen_level": 82,
-        "temperature": 38.8,
-        "blood_pressure": "157/100",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 107,
-        "oxygen_level": 89,
-        "temperature": 38.9,
-        "blood_pressure": "167/108",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 79,
-        "oxygen_level": 98,
-        "temperature": 36.3,
-        "blood_pressure": "125/79",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 83,
-        "oxygen_level": 96,
-        "temperature": 37.3,
-        "blood_pressure": "116/79",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 125,
-        "oxygen_level": 82,
-        "temperature": 39.0,
-        "blood_pressure": "169/108",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 120,
-        "oxygen_level": 82,
-        "temperature": 39.9,
-        "blood_pressure": "167/107",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 46,
-        "oxygen_level": 91,
-        "temperature": 38.3,
-        "blood_pressure": "160/108",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 78,
-        "oxygen_level": 94,
-        "temperature": 36.4,
-        "blood_pressure": "126/72",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 84,
-        "oxygen_level": 97,
-        "temperature": 36.7,
-        "blood_pressure": "125/78",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 72,
-        "oxygen_level": 96,
-        "temperature": 36.2,
-        "blood_pressure": "129/78",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 85,
-        "oxygen_level": 96,
-        "temperature": 37.2,
-        "blood_pressure": "130/76",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 121,
-        "oxygen_level": 91,
-        "temperature": 39.7,
-        "blood_pressure": "147/102",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 88,
-        "oxygen_level": 100,
-        "temperature": 37.2,
-        "blood_pressure": "120/78",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 95,
-        "oxygen_level": 94,
-        "temperature": 37.3,
-        "blood_pressure": "116/71",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 120,
-        "oxygen_level": 82,
-        "temperature": 38.3,
-        "blood_pressure": "154/102",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 90,
-        "oxygen_level": 97,
-        "temperature": 36.6,
-        "blood_pressure": "113/75",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 69,
-        "oxygen_level": 100,
-        "temperature": 36.7,
-        "blood_pressure": "126/74",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 50,
-        "oxygen_level": 89,
-        "temperature": 38.8,
-        "blood_pressure": "145/100",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 83,
-        "oxygen_level": 95,
-        "temperature": 36.5,
-        "blood_pressure": "126/76",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 80,
-        "oxygen_level": 100,
-        "temperature": 36.9,
-        "blood_pressure": "118/78",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 86,
-        "oxygen_level": 98,
-        "temperature": 36.9,
-        "blood_pressure": "126/85",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 81,
-        "oxygen_level": 99,
-        "temperature": 37.2,
-        "blood_pressure": "130/84",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 73,
-        "oxygen_level": 100,
-        "temperature": 36.3,
-        "blood_pressure": "112/76",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 111,
-        "oxygen_level": 91,
-        "temperature": 39.8,
-        "blood_pressure": "168/91",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 54,
-        "oxygen_level": 84,
-        "temperature": 39.5,
-        "blood_pressure": "163/94",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 93,
-        "oxygen_level": 97,
-        "temperature": 36.9,
-        "blood_pressure": "120/78",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 91,
-        "oxygen_level": 95,
-        "temperature": 36.7,
-        "blood_pressure": "111/79",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 114,
-        "oxygen_level": 91,
-        "temperature": 38.4,
-        "blood_pressure": "152/91",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 125,
-        "oxygen_level": 81,
-        "temperature": 38.5,
-        "blood_pressure": "168/107",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 72,
-        "oxygen_level": 98,
-        "temperature": 36.5,
-        "blood_pressure": "115/78",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 84,
-        "oxygen_level": 95,
-        "temperature": 37.2,
-        "blood_pressure": "115/77",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 127,
-        "oxygen_level": 86,
-        "temperature": 38.5,
-        "blood_pressure": "147/107",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 74,
-        "oxygen_level": 98,
-        "temperature": 37.1,
-        "blood_pressure": "127/75",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 113,
-        "oxygen_level": 87,
-        "temperature": 38.2,
-        "blood_pressure": "166/107",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 49,
-        "oxygen_level": 85,
-        "temperature": 39.3,
-        "blood_pressure": "166/96",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 52,
-        "oxygen_level": 83,
-        "temperature": 39.4,
-        "blood_pressure": "154/98",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 77,
-        "oxygen_level": 94,
-        "temperature": 37.0,
-        "blood_pressure": "124/73",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 40,
         "oxygen_level": 90,
         "temperature": 38.1,
-        "blood_pressure": "169/90",
+        "blood_pressure": "165/93",
         "status": "ALERT"
     },
     {
-        "patient_id": "P1",
-        "heart_rate": 69,
-        "oxygen_level": 95,
-        "temperature": 36.9,
-        "blood_pressure": "117/83",
+        "patient_id": "P4",
+        "heart_rate": 79,
+        "oxygen_level": 96,
+        "temperature": 36.2,
+        "blood_pressure": "125/82",
         "status": "NORMAL"
     },
     {
-        "patient_id": "P1",
-        "heart_rate": 41,
-        "oxygen_level": 88,
-        "temperature": 38.3,
-        "blood_pressure": "153/106",
+        "patient_id": "P5",
+        "heart_rate": 44,
+        "oxygen_level": 80,
+        "temperature": 40.0,
+        "blood_pressure": "163/104",
         "status": "ALERT"
     },
     {
-        "patient_id": "P2",
-        "heart_rate": 85,
-        "oxygen_level": 94,
-        "temperature": 36.3,
-        "blood_pressure": "120/78",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
+        "patient_id": "P6",
         "heart_rate": 80,
-        "oxygen_level": 97,
-        "temperature": 36.4,
-        "blood_pressure": "120/85",
+        "oxygen_level": 95,
+        "temperature": 36.8,
+        "blood_pressure": "115/75",
         "status": "NORMAL"
     },
     {
-        "patient_id": "P1",
-        "heart_rate": 72,
-        "oxygen_level": 98,
-        "temperature": 36.5,
+        "patient_id": "P7",
+        "heart_rate": 71,
+        "oxygen_level": 100,
+        "temperature": 36.7,
         "blood_pressure": "129/77",
         "status": "NORMAL"
     },
     {
-        "patient_id": "P2",
-        "heart_rate": 44,
-        "oxygen_level": 80,
-        "temperature": 39.4,
-        "blood_pressure": "170/109",
-        "status": "ALERT"
+        "patient_id": "P8",
+        "heart_rate": 67,
+        "oxygen_level": 100,
+        "temperature": 36.1,
+        "blood_pressure": "114/75",
+        "status": "NORMAL"
     },
     {
-        "patient_id": "P3",
-        "heart_rate": 118,
-        "oxygen_level": 84,
-        "temperature": 38.6,
-        "blood_pressure": "161/110",
-        "status": "ALERT"
+        "patient_id": "P9",
+        "heart_rate": 80,
+        "oxygen_level": 95,
+        "temperature": 36.3,
+        "blood_pressure": "113/84",
+        "status": "NORMAL"
     },
     {
-        "patient_id": "P1",
-        "heart_rate": 85,
-        "oxygen_level": 97,
-        "temperature": 37.4,
-        "blood_pressure": "114/74",
+        "patient_id": "P10",
+        "heart_rate": 92,
+        "oxygen_level": 100,
+        "temperature": 36.9,
+        "blood_pressure": "118/71",
         "status": "NORMAL"
     },
     {
         "patient_id": "P1",
-        "heart_rate": 69,
+        "heart_rate": 81,
+        "oxygen_level": 99,
+        "temperature": 36.6,
+        "blood_pressure": "127/75",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P2",
+        "heart_rate": 70,
+        "oxygen_level": 98,
+        "temperature": 36.5,
+        "blood_pressure": "114/82",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P3",
+        "heart_rate": 67,
+        "oxygen_level": 99,
+        "temperature": 36.8,
+        "blood_pressure": "117/81",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P4",
+        "heart_rate": 68,
+        "oxygen_level": 100,
+        "temperature": 37.0,
+        "blood_pressure": "126/74",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P5",
+        "heart_rate": 74,
+        "oxygen_level": 97,
+        "temperature": 36.7,
+        "blood_pressure": "126/70",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P6",
+        "heart_rate": 124,
+        "oxygen_level": 81,
+        "temperature": 39.3,
+        "blood_pressure": "153/98",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P7",
+        "heart_rate": 83,
         "oxygen_level": 100,
         "temperature": 37.1,
-        "blood_pressure": "128/77",
+        "blood_pressure": "117/77",
         "status": "NORMAL"
     },
     {
-        "patient_id": "P3",
+        "patient_id": "P8",
+        "heart_rate": 70,
+        "oxygen_level": 100,
+        "temperature": 36.3,
+        "blood_pressure": "113/80",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P9",
         "heart_rate": 84,
-        "oxygen_level": 96,
-        "temperature": 36.4,
-        "blood_pressure": "110/84",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 50,
-        "oxygen_level": 85,
-        "temperature": 39.3,
-        "blood_pressure": "164/96",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 81,
-        "oxygen_level": 96,
-        "temperature": 37.0,
-        "blood_pressure": "111/78",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 80,
-        "oxygen_level": 96,
-        "temperature": 36.9,
-        "blood_pressure": "130/84",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 74,
         "oxygen_level": 100,
-        "temperature": 37.5,
-        "blood_pressure": "120/80",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 90,
-        "oxygen_level": 94,
-        "temperature": 36.6,
-        "blood_pressure": "111/85",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 53,
-        "oxygen_level": 89,
-        "temperature": 39.1,
-        "blood_pressure": "168/94",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 93,
-        "oxygen_level": 100,
-        "temperature": 37.4,
-        "blood_pressure": "130/81",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 73,
-        "oxygen_level": 97,
         "temperature": 36.3,
         "blood_pressure": "129/74",
         "status": "NORMAL"
     },
     {
+        "patient_id": "P10",
+        "heart_rate": 82,
+        "oxygen_level": 100,
+        "temperature": 36.9,
+        "blood_pressure": "116/70",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P1",
+        "heart_rate": 78,
+        "oxygen_level": 99,
+        "temperature": 37.5,
+        "blood_pressure": "128/79",
+        "status": "NORMAL"
+    },
+    {
         "patient_id": "P2",
-        "heart_rate": 107,
-        "oxygen_level": 91,
-        "temperature": 38.3,
-        "blood_pressure": "152/90",
+        "heart_rate": 94,
+        "oxygen_level": 97,
+        "temperature": 36.4,
+        "blood_pressure": "116/78",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P3",
+        "heart_rate": 70,
+        "oxygen_level": 97,
+        "temperature": 36.3,
+        "blood_pressure": "119/83",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P4",
+        "heart_rate": 46,
+        "oxygen_level": 83,
+        "temperature": 38.1,
+        "blood_pressure": "144/91",
         "status": "ALERT"
     },
     {
-        "patient_id": "P1",
-        "heart_rate": 53,
+        "patient_id": "P5",
+        "heart_rate": 85,
+        "oxygen_level": 100,
+        "temperature": 37.2,
+        "blood_pressure": "115/80",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P6",
+        "heart_rate": 81,
+        "oxygen_level": 100,
+        "temperature": 36.9,
+        "blood_pressure": "130/72",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P7",
+        "heart_rate": 66,
+        "oxygen_level": 97,
+        "temperature": 37.4,
+        "blood_pressure": "124/81",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P8",
+        "heart_rate": 43,
         "oxygen_level": 80,
-        "temperature": 38.0,
-        "blood_pressure": "164/104",
+        "temperature": 39.3,
+        "blood_pressure": "156/107",
         "status": "ALERT"
     },
     {
+        "patient_id": "P9",
+        "heart_rate": 81,
+        "oxygen_level": 99,
+        "temperature": 37.4,
+        "blood_pressure": "117/79",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P10",
+        "heart_rate": 75,
+        "oxygen_level": 95,
+        "temperature": 36.6,
+        "blood_pressure": "112/70",
+        "status": "NORMAL"
+    },
+    {
         "patient_id": "P1",
+        "heart_rate": 44,
+        "oxygen_level": 90,
+        "temperature": 38.3,
+        "blood_pressure": "164/90",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P2",
+        "heart_rate": 93,
+        "oxygen_level": 98,
+        "temperature": 37.0,
+        "blood_pressure": "118/79",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P3",
+        "heart_rate": 71,
+        "oxygen_level": 98,
+        "temperature": 36.6,
+        "blood_pressure": "112/80",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P4",
+        "heart_rate": 84,
+        "oxygen_level": 95,
+        "temperature": 36.7,
+        "blood_pressure": "126/73",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P5",
+        "heart_rate": 82,
+        "oxygen_level": 99,
+        "temperature": 37.3,
+        "blood_pressure": "112/72",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P6",
+        "heart_rate": 92,
+        "oxygen_level": 98,
+        "temperature": 36.9,
+        "blood_pressure": "114/72",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P7",
+        "heart_rate": 128,
+        "oxygen_level": 91,
+        "temperature": 39.4,
+        "blood_pressure": "154/91",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P8",
+        "heart_rate": 41,
+        "oxygen_level": 82,
+        "temperature": 39.6,
+        "blood_pressure": "170/92",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P9",
+        "heart_rate": 90,
+        "oxygen_level": 98,
+        "temperature": 36.4,
+        "blood_pressure": "116/81",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P10",
+        "heart_rate": 72,
+        "oxygen_level": 96,
+        "temperature": 37.1,
+        "blood_pressure": "110/71",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P1",
+        "heart_rate": 75,
+        "oxygen_level": 97,
+        "temperature": 36.1,
+        "blood_pressure": "123/71",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P2",
+        "heart_rate": 51,
+        "oxygen_level": 85,
+        "temperature": 39.3,
+        "blood_pressure": "167/93",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P3",
+        "heart_rate": 72,
+        "oxygen_level": 99,
+        "temperature": 36.6,
+        "blood_pressure": "119/79",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P4",
         "heart_rate": 89,
         "oxygen_level": 97,
-        "temperature": 37.2,
-        "blood_pressure": "117/85",
+        "temperature": 37.0,
+        "blood_pressure": "123/70",
         "status": "NORMAL"
     },
     {
-        "patient_id": "P2",
-        "heart_rate": 74,
-        "oxygen_level": 97,
-        "temperature": 37.3,
-        "blood_pressure": "130/84",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 69,
-        "oxygen_level": 94,
-        "temperature": 36.3,
-        "blood_pressure": "123/73",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 47,
-        "oxygen_level": 82,
-        "temperature": 38.2,
-        "blood_pressure": "153/104",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 47,
-        "oxygen_level": 82,
-        "temperature": 39.2,
-        "blood_pressure": "160/98",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 85,
-        "oxygen_level": 98,
-        "temperature": 36.5,
-        "blood_pressure": "117/82",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 49,
-        "oxygen_level": 91,
-        "temperature": 39.8,
-        "blood_pressure": "151/90",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 95,
-        "oxygen_level": 98,
-        "temperature": 36.7,
-        "blood_pressure": "129/79",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 65,
-        "oxygen_level": 100,
-        "temperature": 36.8,
-        "blood_pressure": "114/80",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 87,
+        "patient_id": "P5",
+        "heart_rate": 72,
         "oxygen_level": 99,
-        "temperature": 36.5,
-        "blood_pressure": "111/73",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 71,
-        "oxygen_level": 95,
-        "temperature": 36.9,
+        "temperature": 37.3,
         "blood_pressure": "114/85",
         "status": "NORMAL"
     },
     {
-        "patient_id": "P3",
-        "heart_rate": 92,
-        "oxygen_level": 95,
-        "temperature": 37.3,
-        "blood_pressure": "112/73",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P1",
-        "heart_rate": 76,
-        "oxygen_level": 94,
-        "temperature": 37.1,
-        "blood_pressure": "130/85",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 83,
-        "oxygen_level": 100,
-        "temperature": 37.1,
-        "blood_pressure": "118/71",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 66,
-        "oxygen_level": 99,
-        "temperature": 36.7,
-        "blood_pressure": "123/80",
-        "status": "NORMAL"
-    },
-    {
-        "patient_id": "P2",
-        "heart_rate": 41,
-        "oxygen_level": 84,
-        "temperature": 38.9,
-        "blood_pressure": "161/97",
-        "status": "ALERT"
-    },
-    {
-        "patient_id": "P3",
-        "heart_rate": 66,
+        "patient_id": "P6",
+        "heart_rate": 68,
         "oxygen_level": 96,
-        "temperature": 37.4,
-        "blood_pressure": "127/84",
+        "temperature": 36.1,
+        "blood_pressure": "114/82",
         "status": "NORMAL"
     },
     {
-        "patient_id": "P1",
-        "heart_rate": 46,
-        "oxygen_level": 80,
-        "temperature": 38.5,
-        "blood_pressure": "169/93",
+        "patient_id": "P7",
+        "heart_rate": 92,
+        "oxygen_level": 100,
+        "temperature": 36.6,
+        "blood_pressure": "117/72",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P8",
+        "heart_rate": 123,
+        "oxygen_level": 82,
+        "temperature": 38.1,
+        "blood_pressure": "166/108",
         "status": "ALERT"
     },
     {
-        "patient_id": "P1",
-        "heart_rate": 122,
-        "oxygen_level": 84,
-        "temperature": 38.2,
-        "blood_pressure": "148/95",
-        "status": "ALERT"
+        "patient_id": "P9",
+        "heart_rate": 79,
+        "oxygen_level": 98,
+        "temperature": 37.0,
+        "blood_pressure": "116/71",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P10",
+        "heart_rate": 85,
+        "oxygen_level": 96,
+        "temperature": 37.2,
+        "blood_pressure": "118/82",
+        "status": "NORMAL"
     },
     {
         "patient_id": "P1",
         "heart_rate": 80,
+        "oxygen_level": 99,
+        "temperature": 36.4,
+        "blood_pressure": "112/71",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P2",
+        "heart_rate": 55,
+        "oxygen_level": 83,
+        "temperature": 38.9,
+        "blood_pressure": "159/103",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P3",
+        "heart_rate": 74,
+        "oxygen_level": 99,
+        "temperature": 36.9,
+        "blood_pressure": "128/73",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P4",
+        "heart_rate": 91,
+        "oxygen_level": 98,
+        "temperature": 36.1,
+        "blood_pressure": "127/78",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P5",
+        "heart_rate": 45,
+        "oxygen_level": 85,
+        "temperature": 38.4,
+        "blood_pressure": "159/110",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P6",
+        "heart_rate": 69,
+        "oxygen_level": 96,
+        "temperature": 36.1,
+        "blood_pressure": "123/84",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P7",
+        "heart_rate": 86,
+        "oxygen_level": 98,
+        "temperature": 37.1,
+        "blood_pressure": "116/78",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P8",
+        "heart_rate": 114,
+        "oxygen_level": 87,
+        "temperature": 39.7,
+        "blood_pressure": "168/94",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P9",
+        "heart_rate": 72,
         "oxygen_level": 100,
+        "temperature": 36.6,
+        "blood_pressure": "116/72",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P10",
+        "heart_rate": 71,
+        "oxygen_level": 100,
+        "temperature": 37.2,
+        "blood_pressure": "112/71",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P1",
+        "heart_rate": 85,
+        "oxygen_level": 100,
+        "temperature": 37.2,
+        "blood_pressure": "127/81",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P2",
+        "heart_rate": 42,
+        "oxygen_level": 82,
+        "temperature": 38.1,
+        "blood_pressure": "158/93",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P3",
+        "heart_rate": 95,
+        "oxygen_level": 98,
+        "temperature": 36.6,
+        "blood_pressure": "124/70",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P4",
+        "heart_rate": 113,
+        "oxygen_level": 85,
+        "temperature": 39.6,
+        "blood_pressure": "158/95",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P5",
+        "heart_rate": 93,
+        "oxygen_level": 98,
+        "temperature": 36.4,
+        "blood_pressure": "124/74",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P6",
+        "heart_rate": 71,
+        "oxygen_level": 99,
+        "temperature": 36.9,
+        "blood_pressure": "127/82",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P7",
+        "heart_rate": 45,
+        "oxygen_level": 80,
+        "temperature": 39.4,
+        "blood_pressure": "167/102",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P8",
+        "heart_rate": 91,
+        "oxygen_level": 96,
+        "temperature": 37.1,
+        "blood_pressure": "129/72",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P9",
+        "heart_rate": 123,
+        "oxygen_level": 87,
+        "temperature": 39.5,
+        "blood_pressure": "170/92",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P10",
+        "heart_rate": 75,
+        "oxygen_level": 99,
+        "temperature": 37.2,
+        "blood_pressure": "127/81",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P1",
+        "heart_rate": 80,
+        "oxygen_level": 95,
+        "temperature": 36.2,
+        "blood_pressure": "119/73",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P2",
+        "heart_rate": 77,
+        "oxygen_level": 99,
+        "temperature": 36.2,
+        "blood_pressure": "114/82",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P3",
+        "heart_rate": 82,
+        "oxygen_level": 96,
+        "temperature": 37.4,
+        "blood_pressure": "121/70",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P4",
+        "heart_rate": 91,
+        "oxygen_level": 98,
+        "temperature": 36.6,
+        "blood_pressure": "111/83",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P5",
+        "heart_rate": 95,
+        "oxygen_level": 97,
+        "temperature": 36.6,
+        "blood_pressure": "118/85",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P6",
+        "heart_rate": 87,
+        "oxygen_level": 99,
+        "temperature": 36.4,
+        "blood_pressure": "125/70",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P7",
+        "heart_rate": 82,
+        "oxygen_level": 95,
+        "temperature": 36.9,
+        "blood_pressure": "113/85",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P8",
+        "heart_rate": 66,
+        "oxygen_level": 100,
+        "temperature": 37.3,
+        "blood_pressure": "119/84",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P9",
+        "heart_rate": 40,
+        "oxygen_level": 85,
+        "temperature": 38.3,
+        "blood_pressure": "154/91",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P10",
+        "heart_rate": 69,
+        "oxygen_level": 95,
+        "temperature": 36.4,
+        "blood_pressure": "128/82",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P1",
+        "heart_rate": 87,
+        "oxygen_level": 97,
+        "temperature": 37.3,
+        "blood_pressure": "123/75",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P2",
+        "heart_rate": 84,
+        "oxygen_level": 98,
+        "temperature": 36.8,
+        "blood_pressure": "111/82",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P3",
+        "heart_rate": 82,
+        "oxygen_level": 96,
+        "temperature": 36.2,
+        "blood_pressure": "126/74",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P4",
+        "heart_rate": 77,
+        "oxygen_level": 95,
+        "temperature": 36.2,
+        "blood_pressure": "111/74",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P5",
+        "heart_rate": 82,
+        "oxygen_level": 98,
+        "temperature": 36.6,
+        "blood_pressure": "112/81",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P6",
+        "heart_rate": 116,
+        "oxygen_level": 85,
+        "temperature": 38.4,
+        "blood_pressure": "166/106",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P7",
+        "heart_rate": 82,
+        "oxygen_level": 99,
+        "temperature": 37.5,
+        "blood_pressure": "112/70",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P8",
+        "heart_rate": 79,
+        "oxygen_level": 100,
+        "temperature": 37.4,
+        "blood_pressure": "122/77",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P9",
+        "heart_rate": 55,
+        "oxygen_level": 85,
+        "temperature": 38.8,
+        "blood_pressure": "158/105",
+        "status": "ALERT"
+    },
+    {
+        "patient_id": "P10",
+        "heart_rate": 85,
+        "oxygen_level": 100,
+        "temperature": 36.9,
+        "blood_pressure": "128/84",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P1",
+        "heart_rate": 79,
+        "oxygen_level": 99,
+        "temperature": 36.1,
+        "blood_pressure": "117/84",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P2",
+        "heart_rate": 68,
+        "oxygen_level": 100,
+        "temperature": 37.0,
+        "blood_pressure": "119/74",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P3",
+        "heart_rate": 81,
+        "oxygen_level": 96,
+        "temperature": 37.1,
+        "blood_pressure": "127/80",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P4",
+        "heart_rate": 68,
+        "oxygen_level": 98,
+        "temperature": 36.2,
+        "blood_pressure": "116/73",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P5",
+        "heart_rate": 65,
+        "oxygen_level": 96,
         "temperature": 36.3,
-        "blood_pressure": "114/85",
+        "blood_pressure": "112/83",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P6",
+        "heart_rate": 65,
+        "oxygen_level": 95,
+        "temperature": 36.9,
+        "blood_pressure": "115/76",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P7",
+        "heart_rate": 84,
+        "oxygen_level": 100,
+        "temperature": 37.3,
+        "blood_pressure": "121/81",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P8",
+        "heart_rate": 89,
+        "oxygen_level": 96,
+        "temperature": 36.9,
+        "blood_pressure": "116/77",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P9",
+        "heart_rate": 88,
+        "oxygen_level": 99,
+        "temperature": 36.1,
+        "blood_pressure": "115/79",
+        "status": "NORMAL"
+    },
+    {
+        "patient_id": "P10",
+        "heart_rate": 86,
+        "oxygen_level": 100,
+        "temperature": 37.3,
+        "blood_pressure": "125/77",
         "status": "NORMAL"
     }
 ]
