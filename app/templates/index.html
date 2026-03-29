@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Health Monitoring Dashboard</title>
+    <style>
+        body { font-family: Arial; background: #f4f4f4; }
+        table {
+            border-collapse: collapse;
+            width: 90%;
+            margin: 20px auto;
+            background: white;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+        th {
+            background: #333;
+            color: white;
+        }
+        .alert {
+            background-color: #ffcccc;
+        }
+        .normal {
+            background-color: #ccffcc;
+        }
+    </style>
+</head>
+<body>
+
+<h2 style="text-align:center;">Real-Time Health Monitoring Dashboard</h2>
+
+<table>
+    <tr>
+        <th>Patient ID</th>
+        <th>Heart Rate</th>
+        <th>Oxygen</th>
+        <th>Temperature</th>
+        <th>Blood Pressure</th>
+        <th>Status</th>
+    </tr>
+
+    {% for row in data %}
+    <tr class="{{ 'alert' if row.status == 'ALERT' else 'normal' }}">
+        <td>{{ row.patient_id }}</td>
+        <td>{{ row.heart_rate }}</td>
+        <td>{{ row.oxygen_level }}</td>
+        <td>{{ "%.2f"|format(row.temperature) }}</td>
+        <td>{{ row.blood_pressure }}</td>
+        <td>{{ row.status }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+</body>
+</html>
